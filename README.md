@@ -73,9 +73,6 @@ It covers diseases and healthy states across crops like **tomato, potato, apple,
 
 One thing I noticed pretty early on was that the dataset is **significantly imbalanced** — some disease classes have thousands of samples while others have just a few dozen. I knew if I ignored this, the model would just learn to be good at common diseases and terrible at rare ones, which defeats the whole purpose. More on how I handled that below.
 
-<!-- PLACEHOLDER: Add a sample image of a diseased leaf here -->
-> 📸 _[Add a sample leaf image from the dataset here]_
-
 ---
 
 ## Tech Stack
