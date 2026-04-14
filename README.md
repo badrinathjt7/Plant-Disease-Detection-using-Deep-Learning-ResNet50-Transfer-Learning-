@@ -45,6 +45,7 @@ I also wanted to go beyond just training a model. I wanted to understand *why* i
 ## Demo
 
 > Web Interface
+
 I also built a simple **Gradio-based UI** where users can upload a leaf image and get predictions in real time.
 
 This made the project feel more like a complete application rather than just a model.
