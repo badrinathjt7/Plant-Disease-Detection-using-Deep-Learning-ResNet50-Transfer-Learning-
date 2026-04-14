@@ -261,25 +261,29 @@ This was honestly one of my favourite parts of the entire project. I feel that a
 I implemented **Gradient-weighted Class Activation Mapping (Grad-CAM)** to visualize which regions of a leaf image the model pays attention to when making a prediction. It was genuinely satisfying to see the heatmap light up around the diseased spots on the leaf — confirming that the model isn't just pattern-matching on background colours or irrelevant noise.
 
 <!-- PLACEHOLDER: Add Grad-CAM heatmap here -->
-> 📸 _[Add your Grad-CAM visualization here]_
+> <img width="443" height="435" alt="Grad-CAM Heatmap" src="https://github.com/user-attachments/assets/62840939-7f07-4e8e-86da-85971af061e1" />
+
 
 #### t-SNE Feature Visualization
 I used t-SNE to project the model's internal feature representations down to 2D. I noticed that different disease classes form reasonably tight, well-separated clusters — which tells me the model has genuinely learned to distinguish between diseases, not just memorize the training set.
 
 <!-- PLACEHOLDER: Add t-SNE plot here -->
-> 📸 _[Add your t-SNE visualization here]_
+> <img width="636" height="528" alt="t-SNE" src="https://github.com/user-attachments/assets/baed252d-979c-4712-b22e-2434b70c1860" />
+
 
 #### Class Distribution
 Plotting this early on was something of an "aha moment" for me — I could immediately see why class weighting was so necessary. Without this step, I think the results would have been much worse on the rare classes.
 
 <!-- PLACEHOLDER: Add class distribution bar chart here -->
-> 📸 _[Add your class distribution chart here]_
+> <img width="859" height="393" alt="Class Distribution (Imbalance)" src="https://github.com/user-attachments/assets/f0215532-43db-47da-9098-e228242fdd3e" />
+
 
 #### Training Accuracy Curves
 These clearly show the jump that happens when fine-tuning kicks in — a satisfying visual confirmation that the two-phase approach really does work.
 
 <!-- PLACEHOLDER: Add training accuracy curve here -->
-> 📸 _[Add your accuracy curve plot here]_
+> <img width="700" height="470" alt="Accuracy Improvement After Fine-Tuning" src="https://github.com/user-attachments/assets/62bfb930-0ef9-4a98-a8f1-a12936d274b7" />
+
 
 #### CNN vs ResNet Comparison
 I also trained a simple custom CNN as a baseline, just to put the results in perspective. Even on a small data subset, ResNet50 comfortably outperformed it — reinforcing why I reached for a pre-trained model in the first place.
@@ -331,7 +335,6 @@ Honestly, I was not expecting to get this close to 99% on a 38-class problem. I 
 | 🌡️ Grad-CAM Heatmap | Which parts of the leaf the model focuses on when predicting |
 | 📉 ROC Curve | Per-class classifier performance trade-offs |
 
-> 📸 _[Add your visualizations here — you can drag and drop images directly into the GitHub editor]_
 
 ---
 
