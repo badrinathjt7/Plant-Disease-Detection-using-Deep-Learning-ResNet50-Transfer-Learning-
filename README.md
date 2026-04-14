@@ -353,7 +353,7 @@ pip install tensorflow tensorflow-datasets scikit-learn matplotlib seaborn gradi
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/plant-disease-detection.git
+gh repo clone badrinathjt7/Plant-Disease-Detection-using-Deep-Learning-ResNet50-Transfer-Learning-
 cd plant-disease-detection
 
 # Install dependencies
