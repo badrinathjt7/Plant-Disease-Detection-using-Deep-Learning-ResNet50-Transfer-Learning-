@@ -1,5 +1,7 @@
 # 🌿 Plant Disease Detection using Deep Learning (ResNet50 + Transfer Learning)
-
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 > I’ve always been fascinated by how technology can solve real-world problems. Agriculture is one area where a little bit of AI can make a huge difference. I built this project to explore how deep learning can help detect plant diseases from leaf images — and honestly, the results blew me away. After fine-tuning ResNet50 on the PlantVillage dataset, I achieved **98.78% validation accuracy** across 38 disease classes, deployed as an interactive Gradio web app anyone can use.
 
 ---
@@ -347,7 +349,7 @@ pip install tensorflow tensorflow-datasets scikit-learn matplotlib seaborn gradi
 
 1. Open the notebook on Kaggle
 2. Enable GPU: Settings → Accelerator → GPU T4 x2
-3. Run all cells from top to bottom
+3. Download the ipynb and run all cells from top to bottom
 
 ### Locally
 
