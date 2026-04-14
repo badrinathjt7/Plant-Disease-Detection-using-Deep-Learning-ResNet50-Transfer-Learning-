@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection using Deep Learning (ResNet50 + Transfer Learning)
 
-> I built this project to explore how deep learning can help detect plant diseases from leaf images — and honestly, the results blew me away. After fine-tuning ResNet50 on the PlantVillage dataset, I achieved **98.78% validation accuracy** across 38 disease classes, deployed as an interactive Gradio web app anyone can use.
+> I’ve always been fascinated by how technology can solve real-world problems. Agriculture is one area where a little bit of AI can make a huge difference. I built this project to explore how deep learning can help detect plant diseases from leaf images — and honestly, the results blew me away. After fine-tuning ResNet50 on the PlantVillage dataset, I achieved **98.78% validation accuracy** across 38 disease classes, deployed as an interactive Gradio web app anyone can use.
 
 ---
 
