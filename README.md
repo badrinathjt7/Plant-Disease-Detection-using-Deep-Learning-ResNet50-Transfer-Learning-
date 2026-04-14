@@ -249,7 +249,7 @@ Macro Avg F1-Score:   99%
 ```
 
 <!-- PLACEHOLDER: Add confusion matrix screenshot here -->
-> 📸 _[Add your confusion matrix heatmap here]_
+> <img width="638" height="528" alt="image" src="https://github.com/user-attachments/assets/3f3845cb-2895-4a17-9732-084de1817c1c" />
 
 ---
 
