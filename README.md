@@ -42,16 +42,18 @@ I also wanted to go beyond just training a model. I wanted to understand *why* i
 
 ## Demo
 
-> 🚀 Try it live — just upload a leaf photo:
+> Web Interface
+I also built a simple **Gradio-based UI** where users can upload a leaf image and get predictions in real time.
 
-```
-https://c6a6204e34167cc437.gradio.live
-```
+This made the project feel more like a complete application rather than just a model.
 
 The app will tell you what disease (if any) it detects, along with a confidence percentage. No setup needed.
 
 <!-- PLACEHOLDER: Add a screenshot of the Gradio web app here -->
-> 📸 _[Add a screenshot of your Gradio interface here]_
+> <img width="1920" height="920" alt="Plant Disease Detection_gradio_blank" src="https://github.com/user-attachments/assets/ab08cd3d-4af3-4307-a3d9-5642cadb1481" />
+> <img width="1920" height="920" alt="Plant Disease Detection_gradio_leaf" src="https://github.com/user-attachments/assets/cfdfdd54-802a-4761-ad05-3785e271d284" />
+
+
 
 ---
 
