@@ -301,7 +301,7 @@ interface = gr.Interface(
 interface.launch(share=True)
 ```
 
-Anyone with the link can upload a leaf photo and get a prediction instantly — no installation, no coding.
+It generates a link where one can upload a leaf photo and get a prediction instantly — no installation, no coding.
 
 ---
 
