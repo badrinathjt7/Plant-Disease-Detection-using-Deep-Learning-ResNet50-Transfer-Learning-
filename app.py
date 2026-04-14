@@ -8,7 +8,9 @@ IMG_SIZE = 96
 
 model = load_model("plant_disease_model.h5")
 
-class_names = [str(i) for i in range(38)]
+import tensorflow_datasets as tfds
+_, info = tfds.load("plant_village", with_info=True)
+class_names = info.features["label"].names
 
 def predict(image):
     image = tf.image.resize(image, (IMG_SIZE, IMG_SIZE))
