@@ -14,7 +14,6 @@ def predict(image):
     image = tf.image.resize(image, (IMG_SIZE, IMG_SIZE))
     image = preprocess_input(image)
     image = np.expand_dims(image, axis=0)
-
     preds = model.predict(image)[0]
     idx = np.argmax(preds)
 
