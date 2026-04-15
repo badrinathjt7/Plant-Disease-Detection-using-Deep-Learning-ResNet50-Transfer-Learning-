@@ -414,14 +414,15 @@ I'd love to hear your thoughts on this project — whether it's feedback, questi
 
 <!-- PLACEHOLDER: Add your social media handles below -->
 
-| Social Media Handle / Link |
+Social Media Handle / Link
 
-[![GitHub](https://shields.io)](https://github.com) [GitHub Profile](https://github.com/badrinathjt7/)
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[GitHub Profile](https://github.com/badrinathjt7/)
+
+
 [LinkedIn Profile](https://www.linkedin.com/in/badrinath-j-t-3349a627b/)
 
-[![Kaggle](https://shields.io)](https://kaggle.com)
+
 [Kaggle](https://www.kaggle.com/badrinathjt21bai1587)
 
 
