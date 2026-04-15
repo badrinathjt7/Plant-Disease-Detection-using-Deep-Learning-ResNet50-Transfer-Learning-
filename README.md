@@ -414,14 +414,14 @@ I'd love to hear your thoughts on this project — whether it's feedback, questi
 
 <!-- PLACEHOLDER: Add your social media handles below -->
 
-| Platform     | Handle / Link |
-|-------------|--------------|
-| GitHub    | [[Your GitHub Profile URL](https://github.com/badrinathjt7/)] 
-| LinkedIn  | [https://www.linkedin.com/in/badrinath-j-t-3349a627b/] |
-|  Kaggle   | [Your Kaggle Profile URL] |
+| Social Media Handle / Link |
+[[GitHub Profile](https://github.com/badrinathjt7/)] 
+|[LinkedIn Profile]([https://github.com/badrinathjt7/](https://www.linkedin.com/in/badrinath-j-t-3349a627b/))|
+| [Kaggle]([https://github.com/badrinathjt7/](https://www.kaggle.com/badrinathjt21bai1587)) |
+
 
 ---
 
 <p align="center">
-  Built with curiosity, a lot of GPU hours, and genuine care for the problem 🌿
+  If you like this project, feel free to ⭐ the repo—it means a lot!
 </p>
