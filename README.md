@@ -416,9 +416,8 @@ I'd love to hear your thoughts on this project — whether it's feedback, questi
 
 | Platform     | Handle / Link |
 |-------------|--------------|
-| GitHub    | [Your GitHub Profile URL] 
+| GitHub    | [[Your GitHub Profile URL](https://github.com/badrinathjt7/)] 
 | LinkedIn  | [https://www.linkedin.com/in/badrinath-j-t-3349a627b/] |
-| Twitter/X | [@YourHandle] |
 |  Kaggle   | [Your Kaggle Profile URL] |
 
 ---
