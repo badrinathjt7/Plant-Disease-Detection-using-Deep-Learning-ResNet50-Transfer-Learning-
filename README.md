@@ -207,7 +207,7 @@ What surprised me was how quickly the validation accuracy jumped to **88% in jus
 
 ---
 
-### Step 5 — Phase 2: Fine-Tuning
+### Phase 2: Fine-Tuning
 
 After Phase 1 settled, I unfroze the **last 30 layers** of ResNet50 and continued training with a much lower learning rate (**1e-5**). The idea is to make tiny, careful adjustments to the pre-trained weights — not relearn from scratch, just gently nudge the features toward plant disease patterns.
 
